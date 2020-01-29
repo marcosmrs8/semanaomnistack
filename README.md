@@ -34,9 +34,9 @@ This app features all the latest tools and practices in mobile development!
 
 ## Getting started
 
-To run the web page, acess the web folder and run 'yarn start'.
+To run the web page, access the web folder and run 'yarn start'.
 Then open the backend folder in your prompt/shell and run the command 'yarn dev'
-Acess the localhost:3000
+Access the localhost:3000
 
 To run the mobile app. Run the backend first then open the mobile folder in your prompt/shell and run
 'yarn start'. With expo in your cellphone scan the code.
