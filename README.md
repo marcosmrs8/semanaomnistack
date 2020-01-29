@@ -19,7 +19,7 @@ DevRadar
 
 <div>
   <img src="https://i.ibb.co/W0j9WXY/dev-radar.png" alt="demo" height="425">
-  <img src="https://i.ibb.co/XkTSHh0/tenor.gif" alt="demo" height="425">
+  <img src="https://i.ibb.co/5rtZsqr/tenor.gif" alt="demo" height="425">
 </div>
 
 <hr />
